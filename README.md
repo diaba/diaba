@@ -2,13 +2,14 @@
 - 👀 I’m interested in software development and web programming as well as Data analysis.
 - 🌱 I’m currently learning Django...
 - 📫 How to reach me ...
-[<img align="left" alt="diaba | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Portfolio]
-[<img align="left" alt="diaba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[<img align="left" alt="diaba | Portfolio" width="90px" src="https://p.kindpng.com/picc/s/238-2384443_portfolio-portfolio-in-art-lettering-hd-png-download.png" />][Portfolio]
+[<img align="left" alt="diaba | LinkedIn" width="68px" src="https://p.kindpng.com/picc/s/49-493581_icono-facebook-ios-8-clipart-png-download-isometric.png" />][linkedin]
+
+
+
 </br>
-<!---
-diaba/diaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaba)](https://github.com/anuraghazra/github-readme-stats)
