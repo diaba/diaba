@@ -3,7 +3,7 @@
 - 🌱 I’m currently looking for a fulltime job related FullStack development with Spring Boot, Postgres, Angular and UI/UX design. 
 - 📫 How to reach me ...
 
-- 👨‍💻 All of my projects are available at [https://diaba.github.io/portfolio/](https://diaba.github.io/portfolio/)
+- 👨‍💻 All of my key projects are available at [https://diaba.github.io/portfolio/](https://diaba.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
